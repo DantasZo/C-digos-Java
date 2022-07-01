@@ -1,13 +1,5 @@
 programa
-{
-	
-/*
-a) média do salário da população;
-b) média do número de filhos;
-c) maior salário;
-d) percentual de pessoas com salário até R$100,00.
-*/
-	
+{	
 	funcao inicio()
 	{
 
@@ -63,7 +55,7 @@ d) percentual de pessoas com salário até R$100,00.
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 475; 
+ * @POSICAO-CURSOR = 774; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
