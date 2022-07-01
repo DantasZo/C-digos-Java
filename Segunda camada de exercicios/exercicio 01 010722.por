@@ -7,7 +7,7 @@ programa
 		mediasal, mediafilhos, maiorsal = 0.0,
 		perc100, cont100 = 0.0
 
-	inteiro filhos, hab = 20, x
+	inteiro filhos, hab = 5, x, contador
 
 
 	para(x = 1; x <= hab; x++)
@@ -55,7 +55,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 774; 
+ * @POSICAO-CURSOR = 279; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
