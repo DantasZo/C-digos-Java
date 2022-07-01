@@ -1,4 +1,4 @@
-# Codigos-Java
+# Codigos-portugol
 Repositório para armazenamento de atividades realizadas no Bootcamp de Pessoa Desenvolvedora Web da Generation.
 Esse arquivo será atualizado enquanto eu estiver cursando o Bootcamp, sinta-se a vontade para explorar a pasta e me chamar caso
 encontre algo errado ou tenha alguma duvida.
